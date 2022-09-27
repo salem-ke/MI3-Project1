@@ -65,6 +65,7 @@ Regression Data:
 | FamSize            | Average family size was for each year in the U.S|
 | PopMovers          | Proportion of the total U.S. population moved in the given year|
 
+## Links to Data
 
 ## FIGURES
 | Figure Name        | Description |
@@ -73,7 +74,6 @@ Regression Data:
 | Figure 2: line plot of Housing-related moves           | This graph shows the proportion of total moves each year that were due to housing-related reasons. Multiple housing related reasons for move were offered by the Census, so we summed across all housing related categories for the numerator. We saw that housing-related reasons remained a large overall category of the reasons that people moved during the past 20 years. 
 | Figure 3: line plot of employment-related moves |  This graph shows the proportion of total moves each year that were due to employment-related reasons. Multiple employment related reasons for move were offered by the Census, so we summed across all employment related categories for the numerator. Employment-related moves definitely made up a smaller portion of total moves than did housing-related ones. We also noticed that the share for employment related moves remained relatively constant over the period.            |
 | Figure 4: line plot of family-related moves | This graph shows the proportion of total moves each year that were due to family-related reasons (such as change in marital status). Multiple family related reasons for move were offered by the Census, so we summed across all family related categories for the numerator. Family-related moves definitely made up a smaller portion of total moves than did housing-related ones. We also noticed that the share for family-related moves remained relatively constant over the period. 
-
 
 
 
@@ -91,3 +91,13 @@ Regression Data:
 [6] U.S. Bureau of Labor Statistics, 22-Sep-2022. [Online]. Available: https://www.bls.gov/. [Accessed: 27-Sep-2022]. 
 
 [7] “Federal Reserve Economic Data: Fred: St. Louis Fed,” FRED. [Online]. Available: https://fred.stlouisfed.org/. [Accessed: 27-Sep-2022]. 
+
+
+## Acknowledgements 
+ We would like to thank professor Professor Alonsi and Harsh for their help and guidance throughout this project.
+
+## MI1
+https://docs.google.com/document/d/163in8lk14UFyC4aaY7N4SilQWxlvj5GJtGm7YuSXq50/edit?usp=sharing
+
+## MI2
+https://docs.google.com/document/d/1kMFAVI-eL44xZLfQrJXbOKPXF80lPXXr74OqV3gz2Nc/edit?usp=sharing

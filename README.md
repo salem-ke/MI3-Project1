@@ -68,7 +68,7 @@ Regression Data:
 
 ## FIGURES
 | Figure Name        | Description |
-|                    |             |
+|  ----------------- |  ---------  |
 | Figure 1: line plot of mobility rates since 1950          | This graph shows the mobility rate for each year, starting before the 1950s. The mobility rate is calulated by   dividing the total number of people who moved in the past year by the total population. We can see that there has been a downward trend in the mobility rate since around 1950, but especially since the 1970s. This drew our interest and was the motivated behind our regression. |
 | Figure 2: line plot of Housing-related moves           | This graph shows the proportion of total moves each year that were due to housing-related reasons. Multiple housing related reasons for move were offered by the Census, so we summed across all housing related categories for the numerator. We saw that housing-related reasons remained a large overall category of the reasons that people moved during the past 20 years. 
 | Figure 3: line plot of employment-related moves          |             |

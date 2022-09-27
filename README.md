@@ -69,7 +69,7 @@ Regression Data:
 ## FIGURES
 | Figure Name        | Description |
 | -----------        | ----------- |
-| Figure 1           | Title       |
+| Figure 1           | This graph shows the mobility rate for each year, starting before the 1950s. The mobility rate is calulated by                        | dividing the total number of people who moved in the past year by the total population. |
 | -----------        |-------------|
 
 

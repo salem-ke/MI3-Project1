@@ -26,17 +26,56 @@ output.
 ## DATA 
 
 Reasons for Move Data:
-| Variable Name      | Description |
-| -----------        | ----------- |
-| Mobility Period             | Title       |
-| Paragraph          | Text        |
+| Variable Name                            | Description |
+| -----------                              | ----------- |
+| Mobility Period                          | The year during which these moves occured|
+| Total Movers (Over 1 Yrs Old)            | how many people moved during this year|
+| Family: Change in Marital Status         | how many moved due to change in marital status|
+| Family: To Establish Own Household       | how many moved in order to establish their own|
+| Family: Other                            | how many moved for some other family reason|
+| Employment: New Job or Job Transfer      | how many moved for a new job or job transfer|
+| Employment: Look for Work, or Lost Job   | how moved to look for a job /they lost their job |
+| Employment: To be Closer to Work         | How many moved to be closer to work? |
+| Employment: Retired                      | How many moved due to retirement? |
+| Employment: Other                        | How many moved forother employment-related reason? |
+| Housing: Wanted to Own, Not Rent Home    | How moved because they wanted to own, not rent,a home? |
+| Housing: Wanted Newer/Better/Larger Home | How moved because they wanted a better/larger/newer home?|
+| Housing: Wanted Better/Safer Neighborhood| How many moved because they wanted a better neighborhood/less crime? |
+| Housing: Wanted Cheaper Housing          | How many moved for a reason related to cheaper housing? |
+| Housing: Foreclosure/Evicted             | How many moved for a reason due to a foreclosure/eviction? |
+| Housing: Other                           | How many moved for some other housing-related reason? |
+| Misc: Relationship with Unmarried Partner| How many moved because of a reason related to their relationship to an unmarried partner? |
+| Misc: to Attend or Leave College         | How many moved because they were attending or leaving college? |
+| Misc: Change in Climate                  | How many moved because of a change in climate? |
+| Misc: Health Reasons                     | How many moved due to health reasons? |
+| Misc: Natural Disaster                   | How many moved due to natural disaster? |
+| Misc: Other                              | How many moved for a reason other than the ones listed? |
+| Total: Family-Related Moves              | The sum of all of the values in each "family related" category for each year |
+| Total Employment-Related Moves           | The sum of all of the values in each "employment related" category for each year |
+| Total Housing-Related Moves              | The sum of all of the values in each "housing related" category for each year |
+
+
+
+
+
+
+
+
+
+
+
 
 
 Regression Data: 
 | Variable Name      | Description |
 | -----------        | ----------- |
-| Header             | Title       |
-
+| Year               | Time period |
+| PopGrowth          | The rate of population growth over the given year|
+| Economic           | Measures the percentage of the year that the economy was in a recession|
+| DualEarner         | Measures the proportion of married couples in which both spouses worked|
+| Aging Pop          | Proportion of the total U.S. population that is above age 65|
+| FamSize            | Average family size was for each year in the U.S|
+| PopMovers          | Proportion of the total U.S. population moved in the given year|
 
 
 

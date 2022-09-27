@@ -1,4 +1,4 @@
-# MI3-Project1
+# MI3 Project 1
 
 ## Contents
 This repository contains materials relevant to DS 4002, "Data Science Project Course", 

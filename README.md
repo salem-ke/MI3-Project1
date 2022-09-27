@@ -84,4 +84,4 @@ https://www.pewresearch.org/ft_dual-income-households-1960-2012-2/
 https://www.bls.gov/news.release/history/famee_04192001.txt
 https://www.brookings.edu/research/despite-the-pandemic-narrative-americans-are-moving-at-historically-low-rates/
 https://fred.stlouisfed.org/
-| Paragraph          | Text        |
+| Paragraph          | Text        | 

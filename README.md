@@ -86,4 +86,6 @@ Regression Data:
 
 [4]  U. S. C. Bureau, “Surveys and programs contributing to migration/geographic mobility,” Census.gov, 03-Dec-2021. [Online]. Available: https://www.census.gov/topics/population/migration/surveys-programs.html. [Accessed: 19-Sep-2022].
 
-[5] W. H. Frey, “Despite the pandemic narrative, Americans are moving at historically low rates,” Brookings, 09-Mar-2022. [Online]. Available: https://www.brookings.edu/research/despite-the-pandemic-narrative-americans-are-moving-at-historically-low-rates/#:~:text=Migration%20declines%20during%20the%20pandemic,of%20Americans%20changed%20residence%20annually. [Accessed: 19-Sep-2022]. 
+[5] W. H. Frey, “Despite the pandemic narrative, Americans are moving at historically low rates,” Brookings, 09-Mar-2022. [Online]. Available: https://www.brookings.edu/research/despite-the-pandemic-narrative-americans-are-moving-at-historically-low-rates/#:~:text=Migration%20declines%20during%20the%20pandemic,of%20Americans%20changed%20residence%20annually. [Accessed: 19-Sep-2022].
+
+[6] U.S. Bureau of Labor Statistics, 22-Sep-2022. [Online]. Available: https://www.bls.gov/. [Accessed: 27-Sep-2022]. 

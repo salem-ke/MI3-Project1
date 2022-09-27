@@ -79,7 +79,11 @@ Regression Data:
 
 ## REFERENCES
 [1] Extra Space Storage, “Where are Americans moving in 2022?,” Extra Space Storage, 09-Jun-2022. [Online]. Available: https://www.extraspace.com/blog/moving/where-are-people-moving/#:~:text=Finances%20and%20growing%20expenses%20were,cover%20higher%2Dcost%20living%20expenses. [Accessed: 19-Sep-2022].
+
 [2] “Immigration and the rise and decline of American cities,” Hoover Institution. [Online]. Available: https://www.hoover.org/research/immigration-and-rise-and-decline-american-cities. [Accessed: 19-Sep-2022].
+
 [3] Riordan Frost Senior Research Analyst Riordan Frost is a Senior Research Analyst at the Center, Monday, and R. Frost, “Have more people moved during the pandemic?,” Have More People Moved During the Pandemic? | Joint Center for Housing Studies, 29-Nov-2021. [Online]. Available: https://www.jchs.harvard.edu/blog/have-more-people-moved-during-pandemic#:~:text=Overall%2C%202020%20had%20about%20446%2C000,in%202019%20(Figure%202). [Accessed: 19-Sep-2022].
+
 [4]  U. S. C. Bureau, “Surveys and programs contributing to migration/geographic mobility,” Census.gov, 03-Dec-2021. [Online]. Available: https://www.census.gov/topics/population/migration/surveys-programs.html. [Accessed: 19-Sep-2022].
+
 [5] W. H. Frey, “Despite the pandemic narrative, Americans are moving at historically low rates,” Brookings, 09-Mar-2022. [Online]. Available: https://www.brookings.edu/research/despite-the-pandemic-narrative-americans-are-moving-at-historically-low-rates/#:~:text=Migration%20declines%20during%20the%20pandemic,of%20Americans%20changed%20residence%20annually. [Accessed: 19-Sep-2022]. 
